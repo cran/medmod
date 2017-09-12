@@ -1,0 +1,15 @@
+d50686a7b3b0a046f414548bd7ff31e9 *DESCRIPTION
+37439d3cf47a83020aea0b12fd05d3ab *NAMESPACE
+46c4713c55b8a431e87a8a47f4c12d9c *R/med.b.R
+b7a1014ddb93c95bccd159e0b3857ee0 *R/med.h.R
+0d7d420e9178efbde2ed03d1677c17ef *R/medmod.R
+9ce56d6f3c6fb34f3d2d996bca2dd784 *R/mod.b.R
+e856d8cc95d15aab87cf72bef3e3fb7b *R/mod.h.R
+044d8c54af4e118a58c0f44dee08c849 *R/utils.R
+1032ea5eff7df7c9d0c31b37ac063609 *man/center.Rd
+b7151b05263882d3cc7d4fbaea3cf957 *man/med.Rd
+796f17a3ec1b0ed5afce9a165432a08f *man/medmod-package.Rd
+4e285f02614e6ba33fa4bcbc2648b8ea *man/mod.Rd
+dd8a74896ea2f9fa8d8140d15a2e3116 *tests/testthat.R
+29de0ac432c78f2b47e4a26630e627b7 *tests/testthat/testmed.R
+4c4eb224295fe82f0267b2d36ff92ea6 *tests/testthat/testmod.R
